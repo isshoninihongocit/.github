@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://github.com/isshoni-nihongo"> 
-      <img src="./assets/isshoni-logo.jpg" width="150" alt="Isshoni Nihongo Logo"/>
+      <img src="./assets/ingo.png" width="150" alt="Isshoni Nihongo Logo"/>
    </a>
    <br/>
    <h2>Welcome to Isshoni Nihongo! 🇯🇵</h2>
